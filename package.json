@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Bellika/express-server-goat/issues"
   },
-  "homepage": "https://github.com/Bellika/express-server-goat#readme"
+  "homepage": "https://github.com/Bellika/express-server-goat#readme",
+  "dependencies": {
+    "express": "^3.0.0"
+  }
 }
